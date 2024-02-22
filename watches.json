@@ -1,62 +1,72 @@
 [
-    {
-        "id": 1,
-        "name": "John Doe",
-        "age": 30,
-        "occupation": "Developer"
-    },
-    {
-        "id": 2,
-        "name": "Jane Smith",
-        "age": 25,
-        "occupation": "Designer"
-    },
-    {
-        "id": 3,
-        "name": "Tom Brown",
-        "age": 35,
-        "occupation": "Manager"
-    },
-    {
-        "id": 4,
-        "name": "Alice Johnson",
-        "age": 28,
-        "occupation": "Engineer"
-    },
-    {
-        "id": 5,
-        "name": "Emily Davis",
-        "age": 32,
-        "occupation": "Marketing"
-    },
-    {
-        "id": 6,
-        "name": "Michael Clark",
-        "age": 40,
-        "occupation": "CEO"
-    },
-    {
-        "id": 7,
-        "name": "Sarah Lee",
-        "age": 27,
-        "occupation": "HR"
-    },
-    {
-        "id": 8,
-        "name": "David Wilson",
-        "age": 33,
-        "occupation": "Accountant"
-    },
-    {
-        "id": 9,
-        "name": "Sophia Martinez",
-        "age": 29,
-        "occupation": "Analyst"
-    },
-    {
-        "id": 10,
-        "name": "James Taylor",
-        "age": 31,
-        "occupation": "Consultant"
-    }
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "occupation": "Developer",
+    "image": "https://example.com/bottle1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 25,
+    "occupation": "Designer",
+    "image": "https://example.com/bottle2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tom Brown",
+    "age": 35,
+    "occupation": "Manager",
+    "image": "https://example.com/bottle3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Alice Johnson",
+    "age": 28,
+    "occupation": "Engineer",
+    "image": "https://example.com/bottle4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "age": 32,
+    "occupation": "Marketing",
+    "image": "https://example.com/bottle5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Michael Clark",
+    "age": 40,
+    "occupation": "CEO",
+    "image": "https://example.com/bottle6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sarah Lee",
+    "age": 27,
+    "occupation": "HR",
+    "image": "https://example.com/bottle7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "David Wilson",
+    "age": 33,
+    "occupation": "Accountant",
+    "image": "https://example.com/bottle8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sophia Martinez",
+    "age": 29,
+    "occupation": "Analyst",
+    "image": "https://example.com/bottle9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "James Taylor",
+    "age": 31,
+    "occupation": "Consultant",
+    "image": "https://example.com/bottle10.jpg"
+  }
 ]
